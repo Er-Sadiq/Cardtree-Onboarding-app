@@ -2,15 +2,16 @@
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+### Getting Started
 
-First, run the development server:
+First, clone the repo and install npm & run the development server:
 
 ```bash
+git clone https://github.com/Er-Sadiq/Cardtree-Onboarding-app
 cd cardtree-app/
-# or
+# 
 npm install
-# or
+# 
 npm run dev
 ```
 
